@@ -1,7 +1,7 @@
 {
-  "name": "Urara",
-  "short_name": "Urara",
-  "lang": "en-US",
+  "name": "Goygoy Engine",
+  "short_name": "Goygoy Engine",
+  "lang": "tr-TR",
   "description": "Powered by SvelteKit/Urara",
   "id": "https://urara-demo.netlify.app/",
   "start_url": "/",
