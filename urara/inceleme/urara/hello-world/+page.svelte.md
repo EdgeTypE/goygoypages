@@ -1,5 +1,5 @@
 ---
-title: 'Xbox Showcase'de Beklediklerimiz'
+title: "Xbox Showcase'de Beklediklerimiz"
 image: '/hello-world/AdsSADASız.png'
 alt: 'Urara'
 created: 2023-06-06
