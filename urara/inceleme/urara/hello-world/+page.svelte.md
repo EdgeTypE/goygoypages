@@ -1,6 +1,6 @@
 ---
 title: "Xbox Showcase'de Beklediklerimiz"
-image: '/hello-world/AdsSADASız.png'
+image: '/hello-world/xbox2023.png'
 alt: 'Urara'
 created: 2023-06-06
 updated: 2023-06-06
